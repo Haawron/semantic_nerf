@@ -30,3 +30,7 @@ SSR/results/
 *.json
 
 SSR/configs/SSR_room0_config_test.yaml
+SSR/configs/tmp/
+work_dirs/
+.shellcheckrc
+slurm/logs/
