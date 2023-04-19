@@ -1,3 +1,6 @@
+*.sh
+output/*
+
 **/.ipynb_checkpoints
 **/__pycache__
 *.mp4
